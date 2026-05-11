@@ -33,7 +33,7 @@ The model correctly predicted Florida as the 2025 national champion and nailed 3
 
 # Business Case
 
-March Madness is one of the most-watched sporting events in the United States, generating over **$14 billion in bracket contest entries** annually. Despite this, predicting tournament outcomes is notoriously difficult — even expert analysts and seasoned fans routinely fail to pick a perfect bracket.
+March Madness is one of the most-watched sporting events in the United States, generating over **$14 billion in bracket contest entries** annually. Despite this, predicting tournament outcomes is notoriously difficult, even expert analysts and seasoned fans routinely fail to pick a perfect bracket.
 
 ### Why Machine Learning?
 
